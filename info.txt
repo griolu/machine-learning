@@ -1,0 +1,8 @@
+Hi, this is where I'll be uploading the Jupyter notebooks that I make while learning along with the fast.ai course. 
+I'll be using Google Colab to create the notebooks and Binder to deploy them.
+
+Applications will be made with Voilà and IPython widgets. 
+
+Most of the early notebooks here'll be based on Chapters 1 and 2 of the fast.ai book. 
+
+Happy coding 😁
